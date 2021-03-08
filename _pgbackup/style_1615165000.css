@@ -1,0 +1,19 @@
+@media (max-width:575px) {
+    section.background-cover.bg-dark {
+    }
+
+    iframe {
+        display: none;
+    }
+}
+
+@media (max-width:767px) {
+    .navbar-nav li {
+    }
+
+    li.nav-item {
+        background-color: #007bff ;
+    }
+}
+
+
