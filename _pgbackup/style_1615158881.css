@@ -1,0 +1,21 @@
+full-height-background {
+}
+
+@media (max-width:575px) {
+    section.background-cover.bg-dark {
+        display: none;
+    }
+
+    iframe {
+        display: none;
+    }
+}
+
+@media (max-width:991px) {
+    div.col-sm-6 {
+        height: 5em;
+        width: 100%;
+    }
+}
+
+

@@ -1,0 +1,11 @@
+@media (max-width:575px) {
+    section.background-cover.bg-dark {
+        display: none;
+    }
+
+    iframe {
+        display: none;
+    }
+}
+
+
